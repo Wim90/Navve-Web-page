@@ -22,7 +22,9 @@ Navve is designed with privacy in mind. We don't collect:
 
 ## 2. Where Your Data Lives
 
-All your places are stored in your personal iCloud account:
+**You choose whether to use iCloud.**
+
+**If you use iCloud** (signed in with your Apple ID and iCloud enabled for Navve):
 
 - **Free Plan**: Up to 10 places backed up to your iCloud
 - **Pro Plan**: Unlimited places synced via your iCloud
@@ -32,13 +34,19 @@ All your places are stored in your personal iCloud account:
 
 *Think of it this way: your places are stored in your iCloud, just like your photos or notes. We never see them.*
 
+**If you do not use iCloud** (you are signed out of iCloud or have disabled iCloud for Navve in your device settings):
+
+- All your places and collections are stored **only on your device**
+- Nothing is synced to the cloud; we have no copy of your data
+- **Deleting the app will delete all of this data permanently.** It cannot be recovered or retrieved
+
 ---
 
 ## 3. Apple Services We Use
 
 Navve uses Apple's services to function properly:
 
-- **iCloud**: Backs up and syncs your places across your devices
+- **iCloud** (optional): If you use it, iCloud backs up and syncs your places across your devices. You can turn this off in your device settings (Settings → Apple ID → iCloud → Navve); in that case, data stays only on the device (see Section 2).
 - **MapKit**: Shows places on a map and provides geocoding
 - **CoreLocation**: Gets your location (only when you use map features)
 - **StoreKit**: Manages subscriptions through the App Store
@@ -77,10 +85,12 @@ You have complete control over your data:
 
 - Export all your places anytime (Settings → Export Places)
 - Delete individual places or all places
-- Disable iCloud sync in your device settings
+- **Choose whether to use iCloud**: Disable iCloud for Navve in your device settings (Settings → Apple ID → iCloud) if you prefer to keep data only on your device
 - Delete the app to remove all local data
 
-*Since your data is in your iCloud, deleting the app doesn't delete your iCloud data. Manage iCloud data in your device Settings → Apple ID → iCloud.*
+**If you use iCloud:** Deleting the app does not delete your data from iCloud. You can manage or delete that data in Settings → Apple ID → iCloud.
+
+**If you do not use iCloud:** All data is only on your device. Deleting the app deletes that data permanently and it cannot be retrieved. Export your places first if you want to keep a copy.
 
 ---
 
@@ -92,12 +102,9 @@ Navve doesn't collect any personal information from anyone, including children u
 
 ## 8. Data Security
 
-Your data security is provided by Apple's iCloud:
+**When you use iCloud:** Your data is protected by Apple's iCloud (encrypted in transit and at rest, accessible only with your Apple ID; two-factor authentication is recommended).
 
-- Data is encrypted in transit and at rest
-- Only accessible with your Apple ID credentials
-- Protected by Apple's security infrastructure
-- Two-factor authentication recommended
+**When you don't use iCloud:** Your data stays on your device and is protected by your device's security (e.g. passcode, Face ID, or Touch ID). We never receive or store it.
 
 ---
 
@@ -115,9 +122,9 @@ If you have questions about how Navve handles your data, email us at **admin@wim
 
 ## The Bottom Line
 
-**Navve is built with privacy as a core principle. We don't collect, store, analyze, or sell your data. Your places live in your iCloud account, accessible only by you. We never see what you save or where you go. Your privacy is protected by design.**
+**Navve is built with privacy as a core principle. We don't collect, store, analyze, or sell your data. You can use iCloud to sync your places across devices, or keep everything only on your device—your choice. We never see what you save or where you go. Your privacy is protected by design.**
 
 ---
 
-*Navve is developed by WimsightLabs*
+*Navve is developed by WimsightLabs*  
 *Contact: admin@wimsightlabs.com*
