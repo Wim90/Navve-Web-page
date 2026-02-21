@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Last Updated: January 23, 2026**
+**Last Updated: February 20, 2026**
 
 Welcome to Navve! These terms are designed to be clear and fair. By using Navve, you agree to these terms. If you have questions, contact us at admin@wimsightlabs.com
 
@@ -8,7 +8,7 @@ Welcome to Navve! These terms are designed to be clear and fair. By using Navve,
 
 ## 1. What Navve Does
 
-Navve helps you save, organize, and find places you care about. You can add places from Apple maps app links, addresses, or manual entry. The app works on your device, and if you're signed in to iCloud, your data is automatically backed up (you can disable this in your device settings if you prefer).
+Navve helps you save, organize, and share the places that matter to you. Add places your way: share directly from Apple Maps, paste an Apple Maps link, drop in any address, or enter details manually. The app works on your device, and if you're signed in to iCloud, your data is automatically backed up (you can disable this in your device settings if you prefer).
 
 ---
 
@@ -25,14 +25,9 @@ Navve offers two plans:
 
 ## 3. Your Data & Privacy
 
-Your privacy matters to us:
+We take your privacy seriously. We don't have access to your places or collections, we don't track you, and we don't sell your data. How your data is stored (including the fact that iCloud is optional and what happens if you don't use it) is described in full in our **Privacy Policy**.
 
-- **Free Plan**: Up to 10 places backed up to iCloud across your devices
-- **Pro Plan**: Unlimited places synced via Apple's iCloud (subject to Apple's terms)
-- **Private & Secure**: Your places and collections are stored in your personal iCloud account. We (the developer) do not have access to your data
-- **We don't track your location or sell your data**
-- **You own your data and can export it anytime**
-- **Your data is used only to provide the Navve service on your device**
+**We encourage you to read the Privacy Policy** (available in the app under Settings and on our website) so you understand how Navve handles your data and what choices you have.
 
 ---
 
@@ -65,7 +60,7 @@ We work hard to make Navve reliable, but we can't guarantee it will always work 
 - Addresses or coordinates are incorrect
 - You can't access your places temporarily
 
-*Always double-check important information, especially addresses and coordinates.*
+*Always double-check important information, especially addresses.*
 
 ---
 
@@ -79,11 +74,12 @@ To the maximum extent permitted by law, we're not liable for any damages arising
 - Problems caused by third-party services
 - Any indirect or consequential damages
 
+
 ---
 
-## 8. Cancellation & Account Termination
+## 8. Stopping Use & Cancelling Your Subscription
 
-You can stop using Navve anytime. Cancel your subscription through the App Store if you have a Pro plan. We may suspend or terminate accounts that violate these terms, but we'll try to give you notice if possible.
+You can stop using Navve anytime—there is no account with us to close. If you have a Pro plan, cancel your subscription through your App Store subscription settings; that will stop future charges. Your data remains subject to the Privacy Policy (e.g. in your iCloud or on your device until you delete the app).
 
 ---
 

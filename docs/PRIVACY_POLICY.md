@@ -1,6 +1,6 @@
 # Navve Privacy Policy
 
-**Last Updated: January 23, 2026**
+**Last Updated: February 20, 2026**
 
 Your privacy is important to us. This policy explains how Navve handles your data. The short version: we don't collect, sell, or share your personal information.
 
@@ -32,7 +32,7 @@ Navve is designed with privacy in mind. We don't collect:
 - Only you can access your places through your Apple ID
 - Your data is encrypted by Apple's iCloud
 
-*Think of it this way: your places are stored in your iCloud, just like your photos or notes. We never see them.*
+*Think of it this way: your places are stored on your device and in your iCloud, just like your photos or notes. We never see them.*
 
 **If you do not use iCloud** (you are signed out of iCloud or have disabled iCloud for Navve in your device settings):
 
