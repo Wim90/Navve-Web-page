@@ -54,13 +54,12 @@
       <div class="support-card">
         <h3>Email support</h3>
         <p>Send us a message and we'll reply as soon as we can. Include your device model and iOS version to help us help you faster.</p>
-        <a class="btn" href="mailto:admin@wimsightlabs.com">admin@wimsightlabs.com</a>
+        <a class="btn" id="support-email-btn" href="#">&#8203;</a>
       </div>
 
       <div class="support-card">
         <h3>In-app help</h3>
-        <p>Navve has a built-in Help section with step-by-step guides on adding places, using collections, syncing with iCloud, and more.</p>
-        <a class="btn" href="#">Open the app →</a>
+        <p>Navve has a built-in Help section with step-by-step guides on adding places, using collections, syncing with iCloud, and more. Find it in the app under <strong>Settings → Help</strong>.</p>
       </div>
 
     </div>
@@ -155,14 +154,13 @@
     <p class="section-subtitle" style="margin:0 auto 28px; text-align:center;">
       We read every message. Whether it's a bug report, a feature idea, or a simple question — we'd love to hear from you.
     </p>
-    <a href="mailto:admin@wimsightlabs.com"
+    <a id="cta-email-btn"
+       href="#"
        style="display:inline-block; padding:12px 28px; background:var(--green-dark); color:white;
               border-radius:10px; font-size:16px; font-weight:500; text-decoration:none;
               transition:background 0.2s;"
        onmouseover="this.style.background='var(--green-deeper)'"
-       onmouseout="this.style.background='var(--green-dark)'">
-      admin@wimsightlabs.com
-    </a>
+       onmouseout="this.style.background='var(--green-dark)'">&#8203;</a>
   </section>
 
   <!-- ── Footer ── -->
@@ -173,10 +171,27 @@
         <li><a href="privacy.html">Privacy Policy</a></li>
         <li><a href="terms.html">Terms</a></li>
         <li><a href="support.html">Support</a></li>
-        <li><a href="mailto:admin@wimsightlabs.com">Contact</a></li>
+        <li><a id="footer-email-link" href="#">Contact</a></li>
       </ul>
     </div>
   </footer>
 
+  <script>
+    // Email assembled at runtime — never exposed as plain text in source
+    (function () {
+      var u = 'admin', d = 'wimsightlabs', t = 'com';
+      var addr = u + '\u0040' + d + '.' + t;
+      var mailto = 'mailto:' + addr;
+
+      var btn = document.getElementById('support-email-btn');
+      if (btn) { btn.href = mailto; btn.textContent = addr; }
+
+      var cta = document.getElementById('cta-email-btn');
+      if (cta) { cta.href = mailto; cta.textContent = addr; }
+
+      var footer = document.getElementById('footer-email-link');
+      if (footer) { footer.href = mailto; }
+    })();
+  </script>
 </body>
 </html>
