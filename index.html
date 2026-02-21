@@ -218,10 +218,17 @@
         <li><a href="privacy.html">Privacy Policy</a></li>
         <li><a href="terms.html">Terms</a></li>
         <li><a href="support.html">Support</a></li>
-        <li><a href="mailto:admin@wimsightlabs.com">Contact</a></li>
+        <li><a id="footer-email-link" href="#">Contact</a></li>
       </ul>
     </div>
   </footer>
 
+  <script>
+    (function () {
+      var u = 'admin', d = 'wimsightlabs', t = 'com';
+      var el = document.getElementById('footer-email-link');
+      if (el) el.href = 'mailto:' + u + '\u0040' + d + '.' + t;
+    })();
+  </script>
 </body>
 </html>
