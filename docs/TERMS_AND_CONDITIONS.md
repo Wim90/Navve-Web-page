@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Last Updated: February 20, 2026**
+**Last Updated: March 27, 2026**
 
 Welcome to Navve! These terms are designed to be clear and fair. By using Navve, you agree to these terms. If you have questions, contact us at admin@wimsightlabs.com
 
@@ -10,16 +10,21 @@ Welcome to Navve! These terms are designed to be clear and fair. By using Navve,
 
 Navve helps you save, organize, and share the places that matter to you. Add places your way: share directly from Apple Maps, paste an Apple Maps link, drop in any address, or enter details manually. The app works on your device, and if you're signed in to iCloud, your data is automatically backed up (you can disable this in your device settings if you prefer).
 
+**Collections** let you group your saved places into named lists — for example, "Weekend Spots" or "Restaurants to Try." You can add places to one or more collections, reorder them, and share a collection with others.
+
+**Trip Plan** is a special collection mode designed for travel. When you turn on Trip Plan for a collection, you can assign each place to a specific day and time slot (Morning, Lunch, Afternoon, Dinner, Evening), set your travel dates, and export a shareable day-by-day itinerary.
+
 ---
 
-## 2. Subscription Plans
+## 2. Plans (Free & Pro)
 
 Navve offers two plans:
 
-- **Free Plan**: Save up to 10 places with iCloud backup across your devices
-- **Pro Plan**: Unlimited places with iCloud sync across all your devices
-- **Subscriptions are managed through Apple's App Store**
-- **You can cancel anytime through your App Store settings**
+- **Free Plan**: Save up to 8 places with iCloud backup across your devices. All features are unlocked; only the number of saved places is limited.
+- **Pro Plan**: One-time purchase—unlimited places with iCloud sync across all your devices. No subscription; pay once and keep Pro forever.
+- **Purchases are managed through Apple's App Store**. Pro is a non-consumable in-app purchase (product ID: OneTimePayment).
+- **Restore Purchase**: If you reinstall the app or switch devices, use "Restore Purchase" in Settings or from the upgrade prompt to restore your Pro status.
+- **Redeem Code**: If you have a gift card or promotional offer code, use "Redeem Code" in Settings → Subscription or from the upgrade prompt to activate Pro.
 
 ---
 
@@ -77,9 +82,9 @@ To the maximum extent permitted by law, we're not liable for any damages arising
 
 ---
 
-## 8. Stopping Use & Cancelling Your Subscription
+## 8. Stopping Use & Refunds
 
-You can stop using Navve anytime—there is no account with us to close. If you have a Pro plan, cancel your subscription through your App Store subscription settings; that will stop future charges. Your data remains subject to the Privacy Policy (e.g. in your iCloud or on your device until you delete the app).
+You can stop using Navve anytime—there is no account with us to close. Pro is a one-time purchase; there is no subscription to cancel. Refund requests for the Pro purchase must be handled through Apple's App Store refund policy. Your data remains subject to the Privacy Policy (e.g. in your iCloud or on your device until you delete the app).
 
 ---
 
