@@ -77,10 +77,10 @@ Edit the Markdown files in `docs/` and push — the live site reflects changes i
 
 ## App Store link
 
-In `index.html`, find the `.store-badge` anchor and replace `href="#"` with the real App Store URL:
+The `.store-badge` anchor in `index.html` points to:
 
 ```html
-<a class="store-badge" href="https://apps.apple.com/app/navve/idXXXXXXXXXX">
+<a class="store-badge" href="https://apps.apple.com/us/app/navve-save-places-trips/id6751201968">
 ```
 
 ---
