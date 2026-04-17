@@ -315,6 +315,50 @@ nav {
 
 .privacy-callout a:hover { text-decoration: underline; }
 
+/* ── Built differently / No-list manifesto ── */
+.no-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 40px 0 22px;
+}
+
+.no-list li {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  padding: 10px 18px 10px 12px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--color-text);
+  letter-spacing: -0.1px;
+}
+
+.no-list li::before {
+  content: '';
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  background-color: var(--color-surface);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M6.5 6.5l7 7M13.5 6.5l-7 7' stroke='%236e6e73' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  border-radius: 50%;
+}
+
+.no-list-footer {
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.2px;
+  color: var(--color-text);
+  margin-top: 10px;
+}
+
 /* ── Pricing ── */
 .pricing-grid {
   display: grid;
